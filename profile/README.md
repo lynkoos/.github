@@ -1,6 +1,6 @@
 <!-- Encabezado con el nombre de la organización -->
 <h1 align="center">
-  <img src="https://tuimagen.com/logo.png" alt="Lynkoos" width="400">
+  <img src="../img/banner-red.png" alt="Lynkoos" width="400">
 </h1>
 
 <!-- Descripción breve y atractiva de la organización -->
@@ -10,14 +10,16 @@
 
 <!-- Separador -->
 <p align="center">
-  <img src="https://tuimagen.com/separador.png" alt="Separador" width="600">
+  <img src="../img/Logo-green.png" alt="Separador" width="100">
 </p>
 
 <!-- Sección Acerca de Nosotros -->
 <h2 align="center">Acerca de Nosotros</h2>
 
 <p align="center">
-  Somos un equipo dedicado y apasionado que entiende la importancia de destacar en el mundo empresarial. Creemos que cada empresa y profesional tiene una historia única que contar, y estamos aquí para ayudarles a compartir esa historia de manera impactante y memorable.
+  Somos un equipo dedicado y apasionado que entiende la importancia de destacar en el mundo empresarial.
+  
+  Creemos que cada empresa y profesional tiene una historia única que contar, y estamos aquí para ayudarles a compartir esa historia de manera impactante y memorable.
 </p>
 
 <!-- Sección Características Principales -->
@@ -33,9 +35,18 @@
 <h2 align="center">¿Por qué Lynkoos?</h2>
 
 <ul>
-  <li><strong>Simplicidad:</strong> Nos esforzamos por hacer que la creación y el intercambio de portafolios sean lo más simples y sin complicaciones posible.</li>
-  <li><strong>Impacto Visual:</strong> Creemos en la importancia de destacar visualmente en un mundo empresarial competitivo. Nuestra plataforma te ayuda a crear portafolios visualmente impresionantes que captan la atención y dejan una impresión duradera.</li>
-  <li><strong>Conexiones Significativas:</strong> Facilitamos la conexión entre empresas y profesionales, ayudándote a expandir tu red y encontrar nuevas oportunidades de negocio.</li>
+  <li>
+    <strong>Simplicidad:</strong> 
+    Nos esforzamos por hacer que la creación y el intercambio de portafolios sean lo más simples y sin complicaciones posible.
+  </li>
+  <li>
+    <strong>Impacto Visual:</strong> 
+    Creemos en la importancia de destacar visualmente en un mundo empresarial competitivo. Nuestra plataforma te ayuda a crear portafolios visualmente impresionantes que captan la atención y dejan una impresión duradera.
+  </li>
+  <li>
+    <strong>Conexiones Significativas:</strong>
+    Facilitamos la conexión entre empresas y profesionales, ayudándote a expandir tu red y encontrar nuevas oportunidades de negocio.
+  </li>
 </ul>
 
 <!-- Sección Únete a Nosotros -->
@@ -50,8 +61,13 @@
 
 <p align="center">
   Para más información sobre cómo empezar con Lynkoos o para consultas generales, contáctanos:<br>
-  <strong>Sitio Web:</strong> <a href="https://lynkoos.com">lynkoos.com</a><br>
-  <strong>Correo Electrónico:</strong> <a href="mailto:info@lynkoos.com">info@lynkoos.com</a>
+  <strong>Sitio Web:</strong> 
+  <a href="https://lynkoos.com">lynkoos.com</a><br>
+  <strong>Sitio Web:</strong> 
+  <a href="https://lynkoos.com/community">lynkoos.com/community</a><br>
+  <strong>Sitio Web:</strong>
+  <a href="https://lynkoos.com/developers">lynkoos.com/developers</a><br>
+  <strong>Correo Electrónico:</strong> <a href="mailto:owellandry@lynkoos.com">@lynkoos.com</a>
 </p>
 
 <!-- Agradecimiento -->
