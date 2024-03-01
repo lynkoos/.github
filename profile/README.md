@@ -1,6 +1,6 @@
 <!-- Encabezado con el nombre de la organización -->
 <h1 align="center">
-  <img src="https://github.com/lynkoos/.github/blob/main/img/banner-red.png?raw=true" alt="Lynkoos" width="400">
+  <img src="https://github.com/lynkoos/.github/blob/main/img/banner-red.png?raw=true" alt="Lynkoos" width="100%">
 </h1>
 
 <!-- Descripción breve y atractiva de la organización -->
