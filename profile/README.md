@@ -1,6 +1,6 @@
 <!-- Encabezado con el nombre de la organización -->
 <h1 align="center">
-  <img src="../img/banner-red.png" alt="Lynkoos" width="400">
+  <img src="https://github.com/lynkoos/.github/blob/main/img/banner-red.png?raw=true" alt="Lynkoos" width="400">
 </h1>
 
 <!-- Descripción breve y atractiva de la organización -->
@@ -10,7 +10,7 @@
 
 <!-- Separador -->
 <p align="center">
-  <img src="../img/Logo-green.png" alt="Separador" width="100">
+  <img src="https://github.com/lynkoos/.github/blob/main/img/Logo-green.png?raw=true" alt="Separador" width="100">
 </p>
 
 <!-- Sección Acerca de Nosotros -->
